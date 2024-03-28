@@ -1,0 +1,186 @@
+C:\Users\Lenovo\SI_2024_lab1_223270>git log
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+:...skipping...
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+:...skipping...
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+:...skipping...
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 74e7d9eb7e7ff3cef38308bb7e73dafecb514640
+:...skipping...
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 74e7d9eb7e7ff3cef38308bb7e73dafecb514640
+Author: Sandra <silievska85@yahoo.com>
+:...skipping...
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 74e7d9eb7e7ff3cef38308bb7e73dafecb514640
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:12:11 2024 +0100
+:...skipping...
+commit 05ab04d11bc493d8faec6d9741e40b64f93608f8 (HEAD -> master)
+Merge: ea8b912 da1daad
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 05:23:30 2024 +0100
+
+    Merge branch 'branch1' into the master of
+    https://github.com/sandrailievskaa/SI_2024_lab1_223270
+    :wq
+
+commit ea8b912ec43654d3071e7519958d2a9c6a163018 (origin/bug2, bug2)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:35:36 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74686a6642f355b4a4b1094898d7c9d249f02c75
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:19:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 74e7d9eb7e7ff3cef38308bb7e73dafecb514640
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:12:11 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 58d1582ae71b9d5553824ef292f1434252f8378b (origin/bug1, bug1)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 04:26:36 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit da1daadbc60297fa9e6722a9a7082ce38f860ca8 (origin/branch1, branch1)
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 03:56:41 2024 +0100
+
+    Fix makeBigStringFrom method to concatenate strings with length at least minLength
+
+commit d905aa5d18a5b49e8e7d1b290b6db391c3687cd5
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 03:53:06 2024 +0100
+
+    Fix filterOddLengthStrings method to filter strings with odd length
+
+commit 57b60505acb0f45715ee67de07770cecc984f069
+Author: Sandra <silievska85@yahoo.com>
+Date:   Thu Mar 28 03:20:46 2024 +0100
+
+:
